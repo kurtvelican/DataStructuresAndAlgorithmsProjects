@@ -1,0 +1,5 @@
+﻿  Algoritma.cpp
+C:\Users\VeliCan KURT\source\repos\Algoritma\Algoritma\Algoritma.cpp(22,19): error C2062: 'int' türü beklenmiyor
+C:\Users\VeliCan KURT\source\repos\Algoritma\Algoritma\Algoritma.cpp(23,23): error C2065: 'ust': bildirimi yapılmamış tanımlayıcı
+C:\Users\VeliCan KURT\source\repos\Algoritma\Algoritma\Algoritma.cpp(23,28): error C2065: 'a': bildirimi yapılmamış tanımlayıcı
+C:\Users\VeliCan KURT\source\repos\Algoritma\Algoritma\Algoritma.cpp(23,31): error C2065: 'b': bildirimi yapılmamış tanımlayıcı

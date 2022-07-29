@@ -1,0 +1,3 @@
+﻿  random.cpp
+C:\Users\VeliCan KURT\source\repos\random\random\random.cpp(19,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  random.vcxproj -> C:\Users\VeliCan KURT\source\repos\random\Debug\random.exe
